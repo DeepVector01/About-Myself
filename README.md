@@ -1,4 +1,4 @@
-# introduction-to-github<br/>
+# My First repository<br/>
 
 *Welcome to my AI repository! This collection showcases my learning journey and projects related to **Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)**. I'm currently studying BSAI at the **University of AJK**, and I'm further enhancing my skills through an AI course*.<br/>
 
